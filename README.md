@@ -3,7 +3,7 @@ Author: Nguyen Le Bao Anh
 Student ID: s3616128
 Created on: 28/02/19
 Last updated: 14/03/19
-Github repo: https://github.com/usefulmana/SADI_A1_EnrolmentApp
+Github repo: https://github.com/usefulmana/SADI_A1_StudentEnrolmentSystem
 
     I. Requirements
 	Build a Java console application that fulfills the following requirements:
