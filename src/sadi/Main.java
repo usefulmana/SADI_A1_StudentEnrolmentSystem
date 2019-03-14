@@ -3,7 +3,7 @@
  * Created on: 27/02/2019
  * Last updated on: 14/03/2019
  * GitHub Repo: https://github.com/usefulmana/SADI_A1_StudentEnrolmentSystem
- * This is the submission file for assignment I of COSC2440- sadi.
+ * This is the submission file for assignment I of COSC2440 - SADI.
  * This is a console application written in Java 11. This application will allow staffs to enroll students in courses
  * available in the corresponding semesters. It also allows staffs to update, delete, and show enrollments of all
  * students. Additionally, 11 Java design patterns were used. For more details, please refer to the README.md file. */
